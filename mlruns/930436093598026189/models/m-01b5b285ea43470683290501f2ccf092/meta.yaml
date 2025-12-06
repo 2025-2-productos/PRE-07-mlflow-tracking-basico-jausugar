@@ -1,0 +1,10 @@
+artifact_location: file:///Users/jandres8181/Documents/PhD/programacion/productos_de_datos/PRE-07-mlflow-tracking-basico-jausugar/mlruns/930436093598026189/models/m-01b5b285ea43470683290501f2ccf092/artifacts
+creation_timestamp: 1765041043671
+experiment_id: '930436093598026189'
+last_updated_timestamp: 1765041046202
+model_id: m-01b5b285ea43470683290501f2ccf092
+model_type: null
+name: model
+source_run_id: db5feeebf1b34a498c66410c8cc02b7e
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/jandres8181/Documents/PhD/programacion/productos_de_datos/PRE-07-mlflow-tracking-basico-jausugar/mlruns/930436093598026189/db5feeebf1b34a498c66410c8cc02b7e/artifacts
+end_time: 1765041046205
+entry_point_name: ''
+experiment_id: '930436093598026189'
+lifecycle_stage: active
+run_id: db5feeebf1b34a498c66410c8cc02b7e
+run_name: knn_e2b5db50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765041043639
+status: 3
+tags: []
+user_id: jandres8181

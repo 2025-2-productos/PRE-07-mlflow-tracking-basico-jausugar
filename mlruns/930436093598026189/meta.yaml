@@ -1,0 +1,6 @@
+artifact_location: file:///Users/jandres8181/Documents/PhD/programacion/productos_de_datos/PRE-07-mlflow-tracking-basico-jausugar/mlruns/930436093598026189
+creation_time: 1765041037833
+experiment_id: '930436093598026189'
+last_update_time: 1765041037833
+lifecycle_stage: active
+name: wine_quality_experiment
